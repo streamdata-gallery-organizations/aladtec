@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/326-aladte
 x-kinRank: "8"
 x-alexaRank: "93372"
 tags: Aladtec
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aladtec/master/_listings/aladtec/apis.md
 specificationVersion: "0.14"
 apis: []
